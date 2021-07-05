@@ -1,0 +1,48 @@
+body{
+    background-color:darkslategrey;
+    
+}
+
+.all-body{
+    background-color:ghostwhite;
+    margin: 0 auto;
+    width: 500px;
+}
+
+#intro{
+    margin-left: 150Px;
+    font-size: 30px;
+    
+}
+
+.image img{
+    height: 150px;
+    width: 150px;
+    border-radius:20%;
+    margin-left:150Px;
+}
+.name{
+    text-align:justify;
+    margin-left: 150Px;
+    line-height:10px;
+    font-size: 20px;
+}
+.experience{
+    margin-left: 150Px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.form1{
+    margin-left: 150Px;
+}
+.form1 input{
+    margin: 3px;
+    height:25px;
+    width: 225px;
+    border: 1px dotted black;
+    border-radius: 5px;
+}
+.form1 textarea{
+    margin-left: 2px;
+}
